@@ -3,7 +3,7 @@ Suporte e monitoramento para hipersensibilidade sensorial.
 
 O SensivApp é uma solução mobile desenvolvida em Flutter para auxiliar pessoas com hipersensibilidade sensorial a monitorar e gerenciar estímulos do ambiente e do dia a dia.
 
-🚀 Funcionalidades
+ Funcionalidades
 
 Monitoramento em Tempo Real: Acompanhamento de níveis de ruído e iluminação.
 
@@ -13,7 +13,7 @@ Histórico de Eventos: Registro de picos sensoriais para auxiliar em diagnóstic
 
 UX Acessível: Navegação intuitiva e transições suaves para evitar estresse visual.
 
-🛠️ Tecnologias Utilizadas
+ Tecnologias Utilizadas
 Flutter - Framework UI.
 
 Dart - Linguagem de programação.
